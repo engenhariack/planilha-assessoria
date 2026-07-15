@@ -1,5 +1,5 @@
 # planilha-assessoria
-Planilha para assesoria de corrida + cartões de treino com IA generativa
+Planilha para assessoria de corrida + cartões de treino com IA generativa
 
 Criei uma planilha para prescrição de treinos de corrida em Excel, escalável e com valor agregado, para um assessor de corrida. Uma alternativa às plataformas pagas!
 
